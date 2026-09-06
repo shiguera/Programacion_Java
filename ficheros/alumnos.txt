@@ -1,0 +1,10 @@
+Ana García;8.5;7.0;9.0
+Luis Pérez;5.5;6.0;4.5
+Carmen Ruiz;9.0;8.5;9.5
+David López;6.5;7.5;6.0
+Elena Martín;7.0;8.0;7.5
+Francisco Jiménez;4.0;5.0;5.5
+Isabel Fernández;8.0;9.0;8.5
+Miguel Sánchez;6.0;5.5;7.0
+Sofía González;9.5;9.0;10.0
+Pablo Díaz;5.0;4.5;6.0

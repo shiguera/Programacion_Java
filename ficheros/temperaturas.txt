@@ -1,0 +1,15 @@
+Madrid;14.2
+Barcelona;16.8
+Valencia;18.1
+Sevilla;19.4
+Bilbao;13.7
+Zaragoza;15.3
+Málaga;20.2
+Murcia;19.8
+Palma;18.6
+Las Palmas;21.3
+Santa Cruz de Tenerife;22.1
+Valladolid;12.9
+Granada;16.4
+Alicante;19.1
+Córdoba;18.7
