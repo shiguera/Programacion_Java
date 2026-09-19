@@ -1,0 +1,18 @@
+public class Coche extends Vehiculo {
+    private int numeroPuertas;
+
+    public Coche(String marca, String matricula, int velocidadMaxima, int numeroPuertas) {
+        super(marca, matricula, velocidadMaxima);
+        this.numeroPuertas = numeroPuertas;
+    }
+
+    public int getNumeroPuertas() {
+        return numeroPuertas;
+    }
+
+    @Override
+    public String toString() {
+        return "Coche[" + descripcionBase() + ", velocidadMaxima=" + getVelocidadMaxima()
+                + ", numeroPuertas=" + numeroPuertas + "]";
+    }
+}

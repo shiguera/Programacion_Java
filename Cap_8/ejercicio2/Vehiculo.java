@@ -1,0 +1,30 @@
+public class Vehiculo {
+    private String marca;
+    private String matricula;
+    private int velocidadMaxima;
+
+    public Vehiculo(String marca, String matricula, int velocidadMaxima) {
+        System.out.println("Constructor de Vehiculo");
+        this.marca = marca;
+        this.matricula = matricula;
+        this.velocidadMaxima = velocidadMaxima;
+    }
+
+    public String getMarca() {
+        return marca;
+    }
+
+    public String getMatricula() {
+        return matricula;
+    }
+
+    public int getVelocidadMaxima() {
+        return velocidadMaxima;
+    }
+
+    @Override
+    public String toString() {
+        return "Vehiculo[marca=" + marca + ", matricula=" + matricula
+                + ", velocidadMaxima=" + velocidadMaxima + "]";
+    }
+}
